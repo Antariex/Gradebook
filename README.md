@@ -3,6 +3,8 @@
 
 You are a student and you are trying to organize your subjects and grades using Python. Let’s explore what we’ve learned about lists to organize your subjects and scores.
 
+![image](https://user-images.githubusercontent.com/100479971/228377406-4925afe1-88b8-461b-894f-ce7489cddf6f.png)
+
 <h3>Create Some Lists:</h3>
 
 **1 -** Create a list called ```subjects``` and fill it with the classes you are taking:
